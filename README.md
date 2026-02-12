@@ -1,0 +1,1 @@
+# Assistente-de-Voz-Inteligente-Whisper-ChatGPT-gTTS
